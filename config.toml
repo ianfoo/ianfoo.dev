@@ -2,7 +2,7 @@ baseURL = "https://ianfoo.dev/"
 languageCode = "en-us"
 # title = "My Great Big Spot on the \"Internet\""
 title = "ianfoo.dev"
-theme = ["custom-mediumish"]
+theme = ["mediumish"]
 googleAnalytics = "UA-151640630-1"
 copyright = "2020 Ian Molee"
 

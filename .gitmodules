@@ -5,3 +5,6 @@
 	path = themes/minimal
 	url = https://github.com/calintat/minimal.git
 
+[submodule "themes/mediumish"]
+	path = themes/mediumish
+	url = https://github.com/ianfoo/mediumish-gohugo-theme.git
