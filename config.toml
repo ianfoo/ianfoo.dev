@@ -1,0 +1,65 @@
+baseURL = "https://ianfoo.dev/"
+languageCode = "en-us"
+# title = "My Great Big Spot on the \"Internet\""
+title = "ianfoo.dev"
+theme = "mediumish"
+googleAnalytics = "UA-151640630-1"
+copyright = "2020 Ian Molee"
+
+[params.social]
+twitter = "ianfoo"
+github = "ianfoo"
+
+[params.index]
+picture = "images/ian.jpeg"
+title = "Ian Molee"
+subtitle = "software developer, roustabout"
+mdtext = """
+Ever since I was knee high to a hard drive the size of a washing machine,
+I've had a fascination with computers.
+
+In the time since then I've learned some things and seen some things.
+Not as much as many others, and more than some others. From the
+prior group, I seek to learn and be inspired. To the latter group, I 
+aspire to offer anything from my experience that can help.
+
+**Some things I believe or have learned:**
+
+* ***[Flow](https://en.wikipedia.org/wiki/Flow_(psychology)) is the most 
+important thing.*** It's elusive and should be protected at all costs.
+Notice and eliminate the things that threaten it. This isn't just about
+open offices: it's about clumsy or inefficient workflows, those insidious
+thieves of focus and motivation.
+
+* ***Software should be simple.*** It should be highly readable. Functions
+should be short. Tests should be easily writable. Names should be carefully 
+considered. Dependencies should be injected.
+
+* ***The bug or problem you're fighting is caused by something stupidly simple.*** 
+You're going to feel silly when you finally discover what it is, and feel like you
+should have figured it out much more quickly. But in so doing, you're ignoring
+the fact that there are lessons in what feel like wastes of time, and these
+lessons are what breed the wisdom of experience.
+
+* ***Everything has a cost.*** Choose one tool that handles 80% of what you
+need versus two tools that do exactly what you need. Complication is
+multiplicative, and not obvious when you're starting. You probably don't 
+need [Kubernetes](https://k8s.io). Either "sorry," or "you're welcome,"
+depending on how you feel about that.
+
+* ***[Go](https://golang.org) is cool.*** It resonates with the way I think
+and agrees with a lot of my overall software philosophy. It's kind of 
+opinionated and definitely simple, which biases for readability and maintainability. 
+That others hate it because it prevents them from being clever is evidence that I've
+chosen wisely. 
+
+* ***Daily standups are mostly a [waste of time](
+https://blog.humbledot.com/why-daily-stand-ups-are-the-worst-and-what-to-do-about-it/).*** 
+Few of the development teams practicing "scrum" or any methodology with a daily ritual 
+remotely resemble the teams that inspired the creation of such rituals. Communication is
+important, but mindless daily rituals of questionable value to most participants ain't it.
+
+I invite you to reach out to me on [Twitter](https://twitter.com/ianfoo) 
+if you'd like to talk or you think I can help you out with something.
+"""
+
